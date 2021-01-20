@@ -100,3 +100,4 @@ clearBtn.addEventListener("click", () => {
   board.innerHTML = "";
   log.innerHTML = "";
 });
+
